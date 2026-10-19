@@ -103,6 +103,7 @@ The project is undergoing code refactoring and improvements to its gameplay syst
 
 <h2 align="center">📁 Project Structure</h2>
 
+```text
 Assets/
 ├── Animations/
 ├── Editor/
@@ -116,6 +117,7 @@ Assets/
 ├── ScriptableObjects/
 ├── Scripts/
 └── Sounds/
+```
 
 
 <h2 align="center">📄 License</h2>
