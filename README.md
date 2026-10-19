@@ -91,7 +91,13 @@ Combining equipment, items, and elemental effects encourages experimentation wit
 
 <p align="center"> This video showcases an earlier stage of DungeonCurses development, highlighting implemented gameplay systems and experimental features. It was originally created as part of my college graduation project. The videos will be replaced during the development process. </p>
 
-<p align="center"> <a href="https://www.youtube.com/watch?v=Y1_PqqWpjOI"> <img src="https://img.youtube.com/vi/Y1_PqqWpjOI/maxresdefault.jpg" alt="DungeonCurses Development Showcase" width="800"> </a> </p>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Y1_PqqWpjOI">
+    <img src="https://img.youtube.com/vi/Y1_PqqWpjOI/hqdefault.jpg"
+         alt="DungeonCurses Development Showcase"
+         width="800">
+  </a>
+</p>
 
 
 <h2 align="center">🛠️ Development Status</h2>
