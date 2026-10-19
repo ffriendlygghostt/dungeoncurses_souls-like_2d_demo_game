@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 75f860fa5c1b15848923ab450b4d1994
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - PP Grafier
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a5ead2eb9e269084b9baa7c803d28f7f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

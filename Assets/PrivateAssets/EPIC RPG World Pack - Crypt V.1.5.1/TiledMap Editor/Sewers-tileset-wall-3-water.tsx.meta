@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ad71db4cf551e8e4cac088d2f5886c9a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc34d0f3dc257a442819830b408c5322, type: 3}
+  importerVersion: 20
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 241
+  colliderType: 0
