@@ -94,7 +94,9 @@ Combining equipment, items, and elemental effects encourages experimentation wit
 <p align="center">
   <a href="https://www.youtube.com/watch?v=Y1_PqqWpjOI">
     <img src="https://img.youtube.com/vi/Y1_PqqWpjOI/hqdefault.jpg"
-         alt="DungeonCurses Development Showcase">
+         alt="DungeonCurses Development Showcase"
+         width="800"
+	 height="450">
   </a>
 </p>
 
